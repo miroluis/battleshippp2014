@@ -1,4 +1,4 @@
-Raspberry-Pi-GPIO-Node-Express-LED-Blink
+Battleship para o Penela presépio 2014
 ========================================
 
-Blink an LED connected to a Raspberry Pi GPIO pin on and off N times by clicking a button on a web interface served by Node Express.
+É feito em Nodejs que corre numa raspberry pi. A Rasp comunica com o Arduino e este envia para os NeoPixeis. 
